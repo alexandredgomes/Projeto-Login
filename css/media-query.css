@@ -20,6 +20,10 @@
         float: right;
         width: 60%;
     }
+
+    #formulario p {
+        font-size: 1em;
+    }
 }
 
 /*TELAS GRANDES*/
@@ -41,5 +45,9 @@
     #login #formulario {
         float: left;
         width: 50%;
+    }
+
+    #formulario p {
+        font-size: 1.2em;
     }
 }
